@@ -1,0 +1,24 @@
+{
+  "name": "insertion-sort",
+  "version": "1.0.0",
+  "description": "## - Code Challenge 26",
+  "main": "insertion-sort.js",
+  "dependencies": {
+    "jest": "^26.6.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest --verbose --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/micgreene/insertion-sort.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/micgreene/insertion-sort/issues"
+  },
+  "homepage": "https://github.com/micgreene/insertion-sort#readme"
+}
